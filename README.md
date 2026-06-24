@@ -6,6 +6,7 @@
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
