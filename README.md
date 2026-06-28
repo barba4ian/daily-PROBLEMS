@@ -20,6 +20,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -86,8 +87,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
