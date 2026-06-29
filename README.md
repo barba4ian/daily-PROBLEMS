@@ -21,6 +21,7 @@
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 ## Enumeration
 |  |
 | ------- |
