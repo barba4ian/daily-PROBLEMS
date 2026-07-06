@@ -31,6 +31,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
 |  |
