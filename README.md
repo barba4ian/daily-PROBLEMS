@@ -26,6 +26,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
