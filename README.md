@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -214,4 +216,12 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
