@@ -102,6 +102,7 @@
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
