@@ -225,6 +225,7 @@
 | [0137-single-number-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
