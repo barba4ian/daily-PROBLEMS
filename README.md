@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0069-sqrtx) |
@@ -249,4 +250,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
