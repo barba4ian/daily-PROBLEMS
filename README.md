@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -35,6 +36,7 @@
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
@@ -128,6 +130,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -278,8 +282,13 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
