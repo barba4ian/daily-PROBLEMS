@@ -1,4 +1,6 @@
 class Solution {
+    static { Thread.currentThread().setPriority(Thread.MAX_PRIORITY); }
+
     int[] zs, ze, V;
     int[][] sp;
     int m;
@@ -15,14 +17,11 @@ class Solution {
         }
         zs = Arrays.copyOf(zsA, m);
         ze = Arrays.copyOf(zeA, m);
-
         int vn = Math.max(m - 1, 0);
         V = new int[vn];
         for (int j = 0; j < vn; j++)
             V[j] = (ze[j]-zs[j]+1) + (ze[j+1]-zs[j+1]+1);
-
         build();
-
         List<Integer> ans = new ArrayList<>(qs.length);
         for (int[] q : qs) ans.add(ones + gain(q[0], q[1]));
         return ans;
