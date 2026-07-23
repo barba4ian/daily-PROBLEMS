@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
@@ -35,6 +36,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0120-triangle/) | Medium |
@@ -193,6 +195,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
