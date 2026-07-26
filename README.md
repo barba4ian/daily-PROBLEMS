@@ -54,6 +54,7 @@
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +141,7 @@
 | [0069-sqrtx](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
