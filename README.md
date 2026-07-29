@@ -92,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -125,6 +126,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -306,12 +308,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
