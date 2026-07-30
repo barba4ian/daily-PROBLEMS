@@ -14,6 +14,7 @@
 | [0120-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -52,6 +53,7 @@
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -228,6 +230,7 @@
 | [0063-unique-paths-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
