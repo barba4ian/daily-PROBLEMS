@@ -91,6 +91,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -176,6 +178,7 @@
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -191,6 +194,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -249,6 +253,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
