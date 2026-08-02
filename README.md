@@ -20,6 +20,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
@@ -66,6 +67,7 @@
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -164,6 +166,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -396,4 +399,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
