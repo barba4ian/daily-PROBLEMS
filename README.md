@@ -400,4 +400,8 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
