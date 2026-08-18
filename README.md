@@ -95,6 +95,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -221,6 +222,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
