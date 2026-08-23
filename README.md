@@ -222,6 +222,7 @@
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -272,6 +273,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -338,6 +340,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -405,6 +408,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 ## Doubly-Linked List
@@ -458,6 +462,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 ## Geometry
@@ -524,6 +529,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
