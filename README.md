@@ -28,6 +28,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -87,6 +89,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
@@ -201,6 +204,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
@@ -485,6 +489,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Database
@@ -518,12 +523,14 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
