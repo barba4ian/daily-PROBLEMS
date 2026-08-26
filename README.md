@@ -156,6 +156,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +237,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -426,12 +428,14 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
