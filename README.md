@@ -94,6 +94,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+| [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -241,6 +242,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -412,6 +414,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
+| [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -433,6 +436,7 @@
 | [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
+| [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
