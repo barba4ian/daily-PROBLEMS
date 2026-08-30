@@ -96,6 +96,7 @@
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -130,6 +131,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
