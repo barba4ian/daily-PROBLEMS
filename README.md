@@ -88,6 +88,7 @@
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
@@ -332,6 +333,7 @@
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
+| [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
@@ -459,6 +461,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0715-range-module](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0715-range-module/) | Hard |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
+| [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 ## Doubly-Linked List
