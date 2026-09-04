@@ -216,6 +216,7 @@
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
