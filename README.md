@@ -235,6 +235,7 @@
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0223-rectangle-area/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -581,6 +582,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0223-rectangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0223-rectangle-area/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
