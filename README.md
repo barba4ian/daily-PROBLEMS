@@ -31,6 +31,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -253,6 +255,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1927-sum-game/) | Medium |
@@ -554,6 +557,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
