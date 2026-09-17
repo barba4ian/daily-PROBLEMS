@@ -29,6 +29,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -105,6 +106,7 @@
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -298,6 +300,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -355,6 +358,7 @@
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -424,6 +428,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
