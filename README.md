@@ -245,6 +245,7 @@
 | [0204-count-primes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0223-rectangle-area/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0263-ugly-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
@@ -494,6 +495,7 @@
 | [0190-reverse-bits](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0371-sum-of-two-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
