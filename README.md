@@ -257,6 +257,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
@@ -605,6 +606,7 @@
 | [0812-largest-triangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
