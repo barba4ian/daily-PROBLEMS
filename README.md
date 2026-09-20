@@ -240,6 +240,7 @@
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0204-count-primes/) | Medium |
@@ -491,6 +492,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0190-reverse-bits) |
@@ -644,6 +646,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
