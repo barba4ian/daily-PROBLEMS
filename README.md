@@ -739,4 +739,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
