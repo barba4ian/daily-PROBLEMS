@@ -19,6 +19,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
+| [0233-number-of-digit-one](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
@@ -247,6 +248,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0223-rectangle-area/) | Medium |
+| [0233-number-of-digit-one](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -566,6 +568,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0060-permutation-sequence/) | Hard |
+| [0233-number-of-digit-one](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0233-number-of-digit-one/) | Hard |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
