@@ -67,6 +67,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
@@ -173,6 +174,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
@@ -743,4 +745,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0193-valid-phone-numbers/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
