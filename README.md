@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -112,6 +113,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -314,6 +316,7 @@
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -372,6 +375,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -444,6 +448,7 @@
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
