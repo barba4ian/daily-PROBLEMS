@@ -101,6 +101,7 @@
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -412,6 +413,7 @@
 | [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [0835-image-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0835-image-overlap/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0994-rotting-oranges](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -464,6 +466,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
