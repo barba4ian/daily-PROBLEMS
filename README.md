@@ -116,6 +116,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -323,6 +324,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -434,6 +436,7 @@
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
