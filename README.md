@@ -436,6 +436,7 @@
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -620,6 +621,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -780,4 +782,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
