@@ -434,6 +434,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0072-edit-distance/) | Medium |
@@ -633,6 +634,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -799,6 +801,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
