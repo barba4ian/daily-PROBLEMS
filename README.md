@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
@@ -84,6 +85,7 @@
 | [0137-single-number-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
