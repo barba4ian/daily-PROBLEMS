@@ -27,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -175,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0502-ipo](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0502-ipo/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -448,6 +450,7 @@
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -643,6 +646,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -812,6 +816,7 @@
 | [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
