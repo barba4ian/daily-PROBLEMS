@@ -43,6 +43,7 @@
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -186,6 +187,7 @@
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -558,6 +560,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
