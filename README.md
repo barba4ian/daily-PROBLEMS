@@ -831,4 +831,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
