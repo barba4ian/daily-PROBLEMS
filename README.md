@@ -453,6 +453,7 @@
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -498,6 +499,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -725,6 +727,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0089-gray-code/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
