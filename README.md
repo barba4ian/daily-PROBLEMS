@@ -553,6 +553,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
@@ -769,6 +770,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -778,6 +780,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Aho–Corasick Algorithm
 | Problem Name | Difficulty |
