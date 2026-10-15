@@ -144,6 +144,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -357,6 +358,7 @@
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -379,6 +381,7 @@
 | [0715-range-module](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0715-range-module/) | Hard |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -862,4 +865,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
