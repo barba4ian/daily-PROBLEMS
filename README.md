@@ -57,6 +57,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -116,6 +117,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -418,6 +420,7 @@
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
@@ -508,6 +511,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
