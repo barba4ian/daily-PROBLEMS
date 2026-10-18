@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
@@ -77,6 +78,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
@@ -613,6 +615,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -683,6 +686,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -697,6 +701,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Counting Sort
