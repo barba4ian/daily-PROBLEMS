@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
@@ -87,6 +88,7 @@
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -459,6 +461,7 @@
 | [0063-unique-paths-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0221-maximal-square/) | Medium |
 | [0835-image-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0835-image-overlap/) | Medium |
@@ -694,6 +697,7 @@
 | [0020-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -709,6 +713,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Counting Sort
