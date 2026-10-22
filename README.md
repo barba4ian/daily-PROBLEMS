@@ -192,6 +192,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
