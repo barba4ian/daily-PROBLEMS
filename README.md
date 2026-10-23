@@ -134,6 +134,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1406-stone-game-iii/) | Hard |
+| [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1476-subrectangle-queries/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -640,6 +641,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -732,6 +734,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
