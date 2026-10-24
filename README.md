@@ -98,6 +98,7 @@
 | [0137-single-number-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
@@ -307,6 +308,7 @@
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0223-rectangle-area/) | Medium |
@@ -727,6 +729,7 @@
 | [0032-longest-valid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
