@@ -121,6 +121,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0739-daily-temperatures](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
@@ -746,6 +747,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -763,6 +765,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
+| [0739-daily-temperatures](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
