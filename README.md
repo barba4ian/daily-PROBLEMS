@@ -158,6 +158,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2080-range-frequency-queries](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -449,6 +450,7 @@
 | [0239-sliding-window-maximum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -680,6 +682,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
