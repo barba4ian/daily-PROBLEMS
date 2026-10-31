@@ -447,6 +447,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -701,6 +702,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0355-design-twitter](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0355-design-twitter/) | Medium |
@@ -767,6 +769,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
