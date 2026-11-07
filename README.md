@@ -160,6 +160,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -315,6 +316,7 @@
 | [1046-last-stone-weight](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
