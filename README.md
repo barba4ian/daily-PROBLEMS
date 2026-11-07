@@ -556,6 +556,7 @@
 | [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0520-detect-capital/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -1026,4 +1027,16 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
