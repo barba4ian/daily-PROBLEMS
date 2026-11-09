@@ -565,6 +565,7 @@
 | [0482-license-key-formatting](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0520-detect-capital/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0686-repeated-string-match](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0831-masking-personal-information/) | Medium |
 | [0856-score-of-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
@@ -1040,13 +1041,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
