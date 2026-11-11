@@ -288,6 +288,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0355-design-twitter](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0432-all-oone-data-structure/) | Hard |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
