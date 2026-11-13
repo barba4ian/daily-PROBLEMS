@@ -192,6 +192,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -468,6 +469,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -491,11 +493,13 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,6 +632,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -842,6 +847,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -852,6 +858,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
