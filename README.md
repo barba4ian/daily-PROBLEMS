@@ -291,6 +291,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -418,6 +419,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0149-max-points-on-a-line/) | Hard |
