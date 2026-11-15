@@ -87,6 +87,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0053-maximum-subarray) |
@@ -420,6 +421,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
