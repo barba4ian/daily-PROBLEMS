@@ -71,6 +71,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -166,6 +167,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
