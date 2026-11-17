@@ -69,6 +69,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -164,6 +165,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -447,6 +449,7 @@
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2043-simple-bank-system](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2043-simple-bank-system/) | Medium |
