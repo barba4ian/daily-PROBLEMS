@@ -178,6 +178,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -289,6 +290,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2747-count-zero-request-servers/) | Medium |
