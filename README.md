@@ -138,6 +138,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0704-binary-search](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0835-image-overlap/) | Medium |
@@ -544,6 +545,7 @@
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0704-binary-search](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
