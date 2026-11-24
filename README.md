@@ -394,6 +394,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
@@ -548,6 +549,7 @@
 | [0162-find-peak-element](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -797,6 +799,7 @@
 | [0005-longest-palindromic-substring](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
