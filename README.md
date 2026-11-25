@@ -249,6 +249,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -499,6 +500,7 @@
 | [3731-find-missing-elements](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +570,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1140,4 +1143,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
