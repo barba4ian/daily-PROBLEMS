@@ -426,6 +426,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -798,6 +799,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
